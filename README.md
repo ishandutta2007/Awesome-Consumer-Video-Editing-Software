@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -40,25 +41,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global video editing software market is estimated at approximately **$1.1 billion to $3.2 billion** and is growing at an estimated CAGR of 5% to 8.7%. The sector is **moderately fragmented**: high-end professional post-production operates as a concentrated oligopoly (Adobe, Apple, Blackmagic Design), whereas the consumer, prosumer, and creator segment is fragmented across desktop applications, browser/cloud editors, mobile solutions, and open-source alternatives.
+
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Adobe Premiere Elements 2026](https://www.adobe.com/products/premiere-elements.html)** | Consumer video editor with guided edits and AI enhancements, bundled with Photoshop Elements. | **US$149.99** one-time (3-year term license, non-renewing) for the Elements bundle . | **7-day free trial** with full features, no credit card required . No permanent free tier. |
-
-| **[CyberLink PowerDirector 2026](https://www.cyberlink.com/)** | Consumer editor with AI tools, 4K export, and subscription or perpetual options. | **€139.99** one-time (perpetual license, no subscription) . | **Free version** available with watermarks; 4K export and generative AI require paid license . |
-
-| **[Corel VideoStudio 2026](https://www.videostudiopro.com/)** | Consumer editor with templates, 360° video, and multicam support. | **VideoStudio Pro 2026**: **$79.99**. **Ultimate 2026**: **$99.99** (one-time purchase) . | **Free trial** available. No permanent free tier . |
-
-| **[Wondershare Filmora](https://filmora.wondershare.com/)** | Consumer editor with AI features, effects library, and subscription or perpetual options. | **US$59.99/year** (subscription); perpetual license available for a single version . | **Free version** with watermarked exports; full creative assets require paid plan . |
-
-| **[Movavi Video Editor](https://www.movavi.com/)** | Consumer editor focused on ease of use with effects and transitions. | Not confirmed in search results. Paid plans available. | **Free trial** available . No permanent free tier. |
-
-
+| Product | Description | Company Size (Valuation / Revenue) | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Premiere Elements 2026](https://www.adobe.com/products/premiere-elements.html)** | Consumer video editor with guided edits and AI enhancements, bundled with Photoshop Elements. | **~$105B Market Cap** (~$26.6B annual revenue) | **US$149.99** one-time purchase (3-year term license, non-renewing) for bundle; **$99.99** standalone | **30-day free trial** with full features, no credit card required; no permanent free tier |
+| **[Wondershare Filmora](https://filmora.wondershare.com/)** | Consumer editor with AI features, effects library, and subscription or perpetual options. | **~$1.35B Market Cap** (~$215M annual revenue) | **US$49.99/year** (annual subscription) or **US$79.99** perpetual license | **Permanent free tier** with watermarked exports and restricted access to VIP/AI effects |
+| **[Corel VideoStudio 2026](https://www.videostudiopro.com/)** | Consumer editor with templates, 360° video, and multicam support by Alludo. | **>$1B PE Valuation** (~$180M-$210M annual revenue) | **VideoStudio Pro 2026**: **US$79.99**; **Ultimate 2026**: **US$99.99** (one-time purchase) | **30-day free trial** with watermarked output and limited templates; no permanent free tier |
+| **[CyberLink PowerDirector 2026](https://www.cyberlink.com/)** | Consumer editor with AI tools, 4K export, and subscription or perpetual options. | **~$145M Market Cap** (~$75M annual revenue) | **US$54.99/year** (subscription) or **€139.99 / US$139.99** (one-time perpetual license) | **Permanent free tier** (PowerDirector Essential) with watermarked exports and locked 4K/AI tools |
+| **[Movavi Video Editor](https://www.movavi.com/)** | Consumer editor focused on ease of use with effects and transitions. | **~$35M-$40M Annual Revenue** (Bootstrapped / Private) | **US$19.95/month** or **US$54.95/year** (subscription); **US$79.95** lifetime license | **7-day free trial** with watermark, 60-second video export limit, and 1/2 audio length limit |
 
 ## Open-Source GitHub Projects
 
