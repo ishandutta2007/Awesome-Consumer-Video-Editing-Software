@@ -1,51 +1,66 @@
-# Awesome-Consumer-Video-Editing-Software
+# 🎬 Awesome Consumer Video Editing Software
 
-## Top Consumer Video Editing Software Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Consumer Video Editing Software Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consumer-Video-Editing-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Consumer-Video-Editing-Software?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Consumer-Video-Editing-Software?color=blue" alt="GitHub Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Consumer-Video-Editing-Software?color=green" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Top Consumer Video Editing Software Ecosystem
 
-*Focused on Accessible Video Editing, One-Time Purchases & Self-Hosted NLEs*  
+> **A curated showcase of premier consumer video editing software, creator-friendly SaaS platforms, and free, watermark-free open-source video editors.**
 
-**Last updated: October 2026**
+*Designed for content creators, vloggers, YouTubers, educators, and hobbyists seeking accessible desktop video editors, one-time purchase suites, or zero-cost, self-hosted Non-Linear Editors (NLEs).*
 
+**📅 Last updated: October 2026**
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Consumer Video Editing Software**. These tools help everyday creators and hobbyists edit videos—cutting clips, adding titles and effects, and exporting for social media—without the complexity or subscription costs of professional suites like Premiere Pro or DaVinci Resolve Studio.
+## 📑 Table of Contents
 
+- [🔍 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💻 SaaS & Commercial Platforms](#-saas--commercial-platforms)
+- [🚀 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [1. OpenCut](#1-opencut-)
+  - [2. LosslessCut](#2-losslesscut-)
+  - [3. Blender (Video Sequence Editor)](#3-blender-video-sequence-editor-)
+  - [4. Shotcut](#4-shotcut-)
+  - [5. Olive Video Editor](#5-olive-video-editor-)
+  - [6. OpenShot](#6-openshot-)
+  - [7. Kdenlive](#7-kdenlive-)
+  - [8. Flowblade](#8-flowblade-)
+  - [9. Pitivi](#9-pitivi-)
+  - [Special Mention: DaVinci Resolve (Free Tier)](#special-mention-davinci-resolve-free-tier)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📊 Star History](#-star-history)
+- [⚖️ Disclaimer](#-disclaimer)
 
+---
 
-**Examples** include Adobe Premiere Elements, CyberLink PowerDirector, Corel VideoStudio, Wondershare Filmora, and the open-source leaders Kdenlive, Shotcut, and OpenShot (the category leaders).
+## 🔍 Sector Overview & Market Dynamics
 
+The global video editing software market is estimated at approximately **$1.1 billion to $3.2 billion** and continues to expand at a compound annual growth rate (**CAGR of 5% to 8.7%**), propelled by the explosion of short-form social media (TikTok, YouTube Shorts, Instagram Reels) and digital marketing.
 
+The market structure is **moderately fragmented**:
+- **Professional Tier (Concentrated Oligopoly):** Traditional Hollywood and broadcast post-production workflows remain dominated by a handful of established leaders (Adobe Premiere Pro, Apple Final Cut Pro, Blackmagic DaVinci Resolve Studio, and Avid Media Composer).
+- **Consumer & Creator Tier (Highly Fragmented):** Everyday content creators, educators, and SMBs operate across a diverse ecosystem spanning standalone desktop suites, web-based AI tools, and rapidly advancing **open-source non-linear editors (NLEs)** offering watermark-free rendering without recurring subscription locks.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding subscriptions, and controlling the editing pipeline. The open-source landscape is anchored by **Kdenlive** (the feature-rich multi-track NLE), **Shotcut** (the format-flexible cross-platform editor), and **OpenShot** (the beginner-friendly drag-and-drop option), with **DaVinci Resolve Free** serving as a free (but proprietary) professional-grade alternative.
+---
 
+## 💻 SaaS & Commercial Platforms
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
-
-The global video editing software market is estimated at approximately **$1.1 billion to $3.2 billion** and is growing at an estimated CAGR of 5% to 8.7%. The sector is **moderately fragmented**: high-end professional post-production operates as a concentrated oligopoly (Adobe, Apple, Blackmagic Design), whereas the consumer, prosumer, and creator segment is fragmented across desktop applications, browser/cloud editors, mobile solutions, and open-source alternatives.
-
-## SaaS/Hosted Platforms
+Commercial consumer editors focus on automated workflows, turnkey AI wizards, and pre-packaged motion templates. The table below compares top solutions, sorted by **company scale (valuation/revenue)** in descending order:
 
 | Product | Description | Company Size (Valuation / Revenue) | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,82 +70,118 @@ The global video editing software market is estimated at approximately **$1.1 bi
 | **[CyberLink PowerDirector 2026](https://www.cyberlink.com/)** | Consumer editor with AI tools, 4K export, and subscription or perpetual options. | **~$145M Market Cap** (~$75M annual revenue) | **US$54.99/year** (subscription) or **€139.99 / US$139.99** (one-time perpetual license) | **Permanent free tier** (PowerDirector Essential) with watermarked exports and locked 4K/AI tools |
 | **[Movavi Video Editor](https://www.movavi.com/)** | Consumer editor focused on ease of use with effects and transitions. | **~$35M-$40M Annual Revenue** (Bootstrapped / Private) | **US$19.95/month** or **US$54.95/year** (subscription); **US$79.95** lifetime license | **7-day free trial** with watermark, 60-second video export limit, and 1/2 audio length limit |
 
-## Open-Source GitHub Projects
+---
 
+## 🚀 Open-Source GitHub Projects
 
+Open-source video editors empower creators with complete pipeline ownership, privacy, native multi-track timelines, zero recurring fees, and watermark-free exports. 
 
-- **[Kdenlive](https://github.com/KDE/kdenlive)** [![GitHub Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)  
+The list below is **sorted strictly in descending order by GitHub star counts**:
 
-  **The feature-rich multi-track NLE.** GPL-3.0 licensed. **~5,900 stars**, actively maintained (last commit 14 hours ago) . Runs on Linux, Windows, macOS, and BSD. **Strengths**: unlimited video/audio tracks, professional effects library, advanced color grading, keyframe animation, and proxy editing for 4K/HDR footage on modest hardware . **Trade-offs**: older community reports of timeline freezes/crashes—update to the latest version and check proxy/cache settings; distro packages can lag upstream (use Flatpak or AppImage) . Best for most users wanting a real NLE without paying for Premiere.
+### 1. [OpenCut](https://github.com/OpenCut-app/OpenCut) [![GitHub Stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social&color=white)](https://github.com/OpenCut-app/OpenCut/stargazers)
+- **Overview:** **The modern open-source CapCut alternative.** Built for today's creator workflow with snappy short-form timeline editing, auto-caption generation, text overlays, and web-ready exports.
+- **License:** AGPL-3.0
+- **Platforms:** Web, Desktop (Linux, macOS, Windows)
+- **Best For:** Social media creators, TikTok/Reels publishers, and vloggers wanting CapCut's intuitive interface without telemetry, paid filters, or cloud lock-in.
 
+### 2. [LosslessCut](https://github.com/mifi/lossless-cut) [![GitHub Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)
+- **Overview:** **The Swiss Army knife of lossless video and audio trimming.** Performs instantaneous, lossless cuts, joins, stream extractions, and segment reordering without re-encoding footage.
+- **License:** GPL-2.0
+- **Platforms:** Windows, macOS, Linux
+- **Best For:** Quick trimming of rough drone footage, screencasts, action camera clips, and video archives at direct disk speed without generational quality degradation.
 
+### 3. [Blender (Video Sequence Editor)](https://github.com/blender/blender) [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
+- **Overview:** **The industry-standard open-source 3D and VFX suite with a built-in multi-track NLE.** Features 32 composite tracks for video, audio, images, masking, and color grading.
+- **License:** GPL-2.0 / GPL-3.0
+- **Platforms:** Windows, macOS, Linux
+- **Best For:** Creators and artists combining 3D rendering, procedural motion graphics, compositing, and editing within a single integrated production workspace.
 
-- **[Shotcut](https://github.com/mltframework/shotcut)** [![GitHub Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)  
+### 4. [Shotcut](https://github.com/mltframework/shotcut) [![GitHub Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)
+- **Overview:** **The format-flexible cross-platform editor.** Built on Qt 6 and the MLT framework with FFmpeg handling codecs under the hood—edit hundreds of video formats natively on multi-format timelines without prior transcoding.
+- **License:** GPL-3.0
+- **Platforms:** Windows, macOS, Linux
+- **Best For:** Intermediate editors who demand broad codec support, 4K scrubbing, proxy workflows, advanced color wheels, and timeline versatility.
 
-  **The format-flexible cross-platform editor.** GPL-3.0 licensed. **~15,400 stars**, actively maintained (last commit 12 hours ago) . Built on Qt 6 and the MLT framework with FFmpeg handling codecs—edit hundreds of formats natively without importing . **Strengths**: wide format support, 4K support, proxy editing, and a robust filter set including chroma key, motion blur, and color wheels . **Trade-offs**: Qt-style interface has a learning curve; no AI-assisted editing or mobile app; building from source is reserved for contributors . Best for editors who want broad format support and a traditional timeline without a rigid import workflow.
+### 5. [Olive Video Editor](https://github.com/olive-editor/olive) [![GitHub Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)
+- **Overview:** **Fast, node-based next-generation non-linear video editor.** Olive delivers node-based compositing, color management (OpenColorIO), and professional NLE timeline paradigms tailored for open-source users.
+- **License:** GPL-3.0
+- **Platforms:** Windows, macOS, Linux
+- **Best For:** Users seeking a modern UI similar to Premiere Pro and DaVinci Resolve with powerful node-based compositing flexibility.
 
+### 6. [OpenShot](https://github.com/OpenShot/openshot-qt) [![GitHub Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)
+- **Overview:** **The beginner-friendly drag-and-drop editor.** Provides an easy-to-learn interface with unlimited layers, 3D animated titles powered by Blender integration, audio waveform analysis, and slow-motion effects.
+- **License:** GPL-3.0
+- **Platforms:** Windows, macOS, Linux, ChromeOS
+- **Best For:** Absolute beginners, students, educators, and casual hobbyists crafting family montages, classroom presentations, or simple YouTube clips.
 
+### 7. [Kdenlive](https://github.com/KDE/kdenlive) [![GitHub Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)
+- **Overview:** **The feature-rich multi-track NLE powerhouse of the KDE project.** Offers unlimited audio/video tracks, professional effects library, titling suite, keyframe curves, speech-to-text subtitling, and proxy clip rendering.
+- **License:** GPL-3.0
+- **Platforms:** Linux, Windows, macOS, BSD
+- **Best For:** Independent filmmakers, documentary creators, and YouTubers seeking a comprehensive desktop alternative to Adobe Premiere Pro.
 
-- **[OpenShot](https://github.com/OpenShot/openshot-qt)** [![GitHub Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)  
+### 8. [Flowblade](https://github.com/jliljebl/flowblade) [![GitHub Stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade/stargazers)
+- **Overview:** **Precision multitrack non-linear video editor built for Linux.** Emphasizes precise cutting workflows (insert, overwrite, and magnetic timeline modes) with G’MIC filtering and GMV audio tools.
+- **License:** GPL-3.0
+- **Platforms:** Linux
+- **Best For:** Dedicated Linux editors prioritizing ultra-fast timeline scrubbing, keyboard-driven trimming, and fine-tuned clip synchronization.
 
-  **The beginner-friendly drag-and-drop editor.** GPL-3.0 licensed. **~6,600 stars**, actively maintained (last commit 3 hours ago) . **Strengths**: simplest learning curve of the three—drag files directly onto the timeline, no complex import; multi-track editing, animation framework, 3D animated titles, and audio waveform visualization . **Trade-offs**: heavier projects and very large files can cause choppy previews; less feature-rich than Kdenlive or Shotcut . Best for absolute beginners and simple projects like school videos, social clips, and basic joins/cuts/titles.
-
-
-
-- **[DaVinci Resolve (Free)](https://www.blackmagicdesign.com/products/davinciresolve)** [![GitHub Stars](https://img.shields.io/github/stars/blackmagicdesign/davinci-resolve?style=social&color=white)](https://www.blackmagicdesign.com/products/davinciresolve)  
-
-  **The free professional-grade alternative.** **Proprietary but free**—not open source, included for comparison. **Strengths**: professional color grading, Fusion compositing, Fairlight audio, and a capable free tier. **Trade-offs**: free version lacks AI tools, 10-bit video support, and some export resolution options; **Studio license costs $295** (one-time) . Hardware demands are higher than consumer editors. Best for users who need professional features and have the hardware to run it.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Pitivi** — Light GNOME-native editor built on GStreamer. Best for simple scope projects on Linux .
-
-- **Blender (Video Sequence Editor)** — Built-in video editor within Blender. Best when 3D/compositing is the primary job and editing is secondary .
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Open-source video editors are production-ready for consumer use**: Kdenlive, Shotcut, and OpenShot are all actively maintained and capable of handling YouTube, social media, and short-film projects without any subscription .
-
-- **Free tiers of commercial editors are limited**: PowerDirector and Filmora add watermarks to free exports ; Premiere Elements offers only a 7-day trial . Open-source editors have no watermarks or export limits.
-
-- **DaVinci Resolve is free but not open source**: it's included as a comparison point because it's the most capable free video editor available, but the Studio version ($295) unlocks AI features and 10-bit support .
-
-- **Pricing and features vary by region and version**: CyberLink lists €139.99 for PowerDirector 2026 ; Corel VideoStudio pricing is in USD . Verify local pricing before purchasing.
-
-
+### 9. [Pitivi](https://github.com/GNOME/pitivi) [![GitHub Stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)
+- **Overview:** **The GNOME-native video editor built upon the GStreamer Editing Services (GES).** Clean, intuitive user interface that blends seamlessly with the modern Linux desktop ecosystem.
+- **License:** LGPL-2.1
+- **Platforms:** Linux (Flatpak recommended)
+- **Best For:** GNOME desktop enthusiasts wanting a clean, well-integrated desktop video editor for everyday multimedia assembly.
 
 ---
 
+### Special Mention: [DaVinci Resolve (Free Tier)](https://www.blackmagicdesign.com/products/davinciresolve)
+- **Status:** Proprietary (Freemium) — *Included as the premier commercial free tier benchmark*.
+- **Strengths:** Industry-leading color grading, Fairlight digital audio workstation, Fusion visual effects node tree, and multi-user collaboration.
+- **Limitations:** Free version lacks neural engine AI features, stereoscopic 3D, and >4K/60fps DCI exports. Upgrading to DaVinci Resolve Studio is a one-time perpetual purchase of **US$295**.
+- **Best For:** Prosumers and aspiring film colorists who possess dedicated GPU workstations.
 
+---
 
-**Made for hobbyist creators, social media editors, and anyone who wants to edit video without a subscription.**  
+## 🤝 How to Contribute
 
-Let's make consumer video editing more open, accessible, and watermark-free.
+Contributions, bug reports, and suggestions are warmly welcome!
+
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a topic branch** (`git checkout -b feature/new-editor-entry`).
+3. 📝 **Add or update entries** following existing markdown conventions and tabular schemas. Ensure descriptions remain factual, pricing is confirmed, and project links are official.
+4. 🚀 **Submit a Pull Request** with a concise description of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated guide helped you discover your ideal video editor or saved you expensive subscription fees, please consider supporting the project:
+
+- ⭐ **Star this repository** to improve discoverability for creators worldwide.
+- 🍴 **Fork and share** with fellow video enthusiasts, video production clubs, and editors.
+- ☕ **Buy a coffee & sponsor ongoing maintenance:**  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+Thank you to all community contributors, open-source maintainers, and creators who make free, watermark-free video editing accessible to everyone! ✨
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Consumer-Video-Editing-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Consumer-Video-Editing-Software&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This repository is an independent, **community-curated** educational index and does not constitute a formal commercial endorsement.
+- **Open-source video editors are production-ready**: Solutions such as OpenCut, LosslessCut, Kdenlive, Shotcut, and OpenShot are actively maintained, capable of delivering broadcast-ready 4K content with zero recurring costs and zero watermarks.
+- Commercial free tiers frequently restrict advanced functionality (watermarking exported clips or capping duration). Always inspect vendor license agreements before commercial deployment.
+- Product names, logos, and registered trademarks belong to their respective corporate owners.
+
+---
+
+<p align="center">
+  <b>Built with ❤️ for hobbyists, vloggers, and the open creator community.</b><br>
+  <i>Empowering watermark-free storytelling across the globe.</i>
+</p>
