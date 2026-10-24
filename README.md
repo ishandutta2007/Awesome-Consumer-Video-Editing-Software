@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consumer-Video-Editing-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Consumer-Video-Editing-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Consumer-Video-Editing-Software?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Consumer-Video-Editing-Software?color=blue" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Consumer-Video-Editing-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Consumer-Video-Editing-Software?color=green" alt="License" /></a>
@@ -76,57 +76,57 @@ Commercial consumer editors focus on automated workflows, turnkey AI wizards, an
 
 Open-source video editors empower creators with complete pipeline ownership, privacy, native multi-track timelines, zero recurring fees, and watermark-free exports. 
 
-The list below is **sorted strictly in descending order by GitHub star counts**:
+The list below is **sorted strictly in descending order by GitHub Stars_Counts**:
 
-### 1. [OpenCut](https://github.com/OpenCut-app/OpenCut) [![GitHub Stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social&color=white)](https://github.com/OpenCut-app/OpenCut/stargazers)
+### 1. [OpenCut](https://github.com/OpenCut-app/OpenCut) [![GitHub_Stars](https://img.shields.io/github/stars/OpenCut-app/OpenCut?style=social&color=white)](https://github.com/OpenCut-app/OpenCut/stargazers)
 - **Overview:** **The modern open-source CapCut alternative.** Built for today's creator workflow with snappy short-form timeline editing, auto-caption generation, text overlays, and web-ready exports.
 - **License:** AGPL-3.0
 - **Platforms:** Web, Desktop (Linux, macOS, Windows)
 - **Best For:** Social media creators, TikTok/Reels publishers, and vloggers wanting CapCut's intuitive interface without telemetry, paid filters, or cloud lock-in.
 
-### 2. [LosslessCut](https://github.com/mifi/lossless-cut) [![GitHub Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)
+### 2. [LosslessCut](https://github.com/mifi/lossless-cut) [![GitHub_Stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=social&color=white)](https://github.com/mifi/lossless-cut/stargazers)
 - **Overview:** **The Swiss Army knife of lossless video and audio trimming.** Performs instantaneous, lossless cuts, joins, stream extractions, and segment reordering without re-encoding footage.
 - **License:** GPL-2.0
 - **Platforms:** Windows, macOS, Linux
 - **Best For:** Quick trimming of rough drone footage, screencasts, action camera clips, and video archives at direct disk speed without generational quality degradation.
 
-### 3. [Blender (Video Sequence Editor)](https://github.com/blender/blender) [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
+### 3. [Blender (Video Sequence Editor)](https://github.com/blender/blender) [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers)
 - **Overview:** **The industry-standard open-source 3D and VFX suite with a built-in multi-track NLE.** Features 32 composite tracks for video, audio, images, masking, and color grading.
 - **License:** GPL-2.0 / GPL-3.0
 - **Platforms:** Windows, macOS, Linux
 - **Best For:** Creators and artists combining 3D rendering, procedural motion graphics, compositing, and editing within a single integrated production workspace.
 
-### 4. [Shotcut](https://github.com/mltframework/shotcut) [![GitHub Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)
+### 4. [Shotcut](https://github.com/mltframework/shotcut) [![GitHub_Stars](https://img.shields.io/github/stars/mltframework/shotcut?style=social&color=white)](https://github.com/mltframework/shotcut/stargazers)
 - **Overview:** **The format-flexible cross-platform editor.** Built on Qt 6 and the MLT framework with FFmpeg handling codecs under the hood—edit hundreds of video formats natively on multi-format timelines without prior transcoding.
 - **License:** GPL-3.0
 - **Platforms:** Windows, macOS, Linux
 - **Best For:** Intermediate editors who demand broad codec support, 4K scrubbing, proxy workflows, advanced color wheels, and timeline versatility.
 
-### 5. [Olive Video Editor](https://github.com/olive-editor/olive) [![GitHub Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)
+### 5. [Olive Video Editor](https://github.com/olive-editor/olive) [![GitHub_Stars](https://img.shields.io/github/stars/olive-editor/olive?style=social&color=white)](https://github.com/olive-editor/olive/stargazers)
 - **Overview:** **Fast, node-based next-generation non-linear video editor.** Olive delivers node-based compositing, color management (OpenColorIO), and professional NLE timeline paradigms tailored for open-source users.
 - **License:** GPL-3.0
 - **Platforms:** Windows, macOS, Linux
 - **Best For:** Users seeking a modern UI similar to Premiere Pro and DaVinci Resolve with powerful node-based compositing flexibility.
 
-### 6. [OpenShot](https://github.com/OpenShot/openshot-qt) [![GitHub Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)
+### 6. [OpenShot](https://github.com/OpenShot/openshot-qt) [![GitHub_Stars](https://img.shields.io/github/stars/OpenShot/openshot-qt?style=social&color=white)](https://github.com/OpenShot/openshot-qt/stargazers)
 - **Overview:** **The beginner-friendly drag-and-drop editor.** Provides an easy-to-learn interface with unlimited layers, 3D animated titles powered by Blender integration, audio waveform analysis, and slow-motion effects.
 - **License:** GPL-3.0
 - **Platforms:** Windows, macOS, Linux, ChromeOS
 - **Best For:** Absolute beginners, students, educators, and casual hobbyists crafting family montages, classroom presentations, or simple YouTube clips.
 
-### 7. [Kdenlive](https://github.com/KDE/kdenlive) [![GitHub Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)
+### 7. [Kdenlive](https://github.com/KDE/kdenlive) [![GitHub_Stars](https://img.shields.io/github/stars/KDE/kdenlive?style=social&color=white)](https://github.com/KDE/kdenlive/stargazers)
 - **Overview:** **The feature-rich multi-track NLE powerhouse of the KDE project.** Offers unlimited audio/video tracks, professional effects library, titling suite, keyframe curves, speech-to-text subtitling, and proxy clip rendering.
 - **License:** GPL-3.0
 - **Platforms:** Linux, Windows, macOS, BSD
 - **Best For:** Independent filmmakers, documentary creators, and YouTubers seeking a comprehensive desktop alternative to Adobe Premiere Pro.
 
-### 8. [Flowblade](https://github.com/jliljebl/flowblade) [![GitHub Stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade/stargazers)
+### 8. [Flowblade](https://github.com/jliljebl/flowblade) [![GitHub_Stars](https://img.shields.io/github/stars/jliljebl/flowblade?style=social&color=white)](https://github.com/jliljebl/flowblade/stargazers)
 - **Overview:** **Precision multitrack non-linear video editor built for Linux.** Emphasizes precise cutting workflows (insert, overwrite, and magnetic timeline modes) with G’MIC filtering and GMV audio tools.
 - **License:** GPL-3.0
 - **Platforms:** Linux
 - **Best For:** Dedicated Linux editors prioritizing ultra-fast timeline scrubbing, keyboard-driven trimming, and fine-tuned clip synchronization.
 
-### 9. [Pitivi](https://github.com/GNOME/pitivi) [![GitHub Stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)
+### 9. [Pitivi](https://github.com/GNOME/pitivi) [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/pitivi?style=social&color=white)](https://github.com/GNOME/pitivi/stargazers)
 - **Overview:** **The GNOME-native video editor built upon the GStreamer Editing Services (GES).** Clean, intuitive user interface that blends seamlessly with the modern Linux desktop ecosystem.
 - **License:** LGPL-2.1
 - **Platforms:** Linux (Flatpak recommended)
